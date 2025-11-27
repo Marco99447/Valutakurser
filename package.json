@@ -1,0 +1,12 @@
+﻿{
+  "name": "valutakurser",
+  "version": "1.0.0",
+  "description": "Static currency rates site + Netlify functions for DNB scraping",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
